@@ -42,7 +42,7 @@ mf_shell/
 1. Clona esto como si supieras usar Git:
 
 ```bash
-git clone <url-del-repo>
+git clone https://github.com/AnnieVargasA/mf_shell.git
 cd mf_shell
 ```
 
